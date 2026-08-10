@@ -14,8 +14,19 @@ The repository currently indexes 142 public recipes attributed to 66 creators.
 The bundled public index contains only recipe identity, source links, and
 non-official workflow interpretations. It excludes official descriptions,
 Picture Control parameters, signed URLs, camera metadata, hashes, and display
-images. Users may run the synchronization and build scripts locally when they
-need the complete visual-reference workflow.
+images.
+
+### Obtain the complete local reference set
+
+The full set currently consists of 142 Nikon display samples plus their public
+official descriptions. These third-party materials are intentionally not
+redistributed or stored in this repository's Git history. Obtain them yourself
+from the linked Nikon Imaging Cloud / Nikon Cloud Creation public recipe pages,
+subject to the source site's terms and applicable law, then run
+`scripts/sync_nikon_recipe_catalog.py` and
+`scripts/build_nikon_style_index.py` locally. The resulting samples and full
+index stay ignored by Git; the skill automatically prefers that local full
+index and falls back to the bundled public index when it is absent.
 
 The workflow never copies Nikon Picture Control values directly into Lightroom.
 It searches candidates, visually inspects the best official samples, selects by
