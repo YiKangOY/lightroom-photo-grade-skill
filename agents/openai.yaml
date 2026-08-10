@@ -1,0 +1,10 @@
+interface:
+  display_name: "Lightroom Photo Grade"
+  short_description: "Safe Lightroom grading with taste and Nikon recipe references"
+  default_prompt: "调用 $photo-grade 进行调色：按完整标准流程处理 Lightroom 当前选中照片，并在合适时使用本地 Nikon Imaging Cloud 风格目录。"
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "lightroom"
+      description: "Read and update the active Adobe Lightroom Classic catalog"

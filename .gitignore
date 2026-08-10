@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Generated crawler state contains expiring signed display-image URLs.
+references/nikon-cloud/raw/
+references/nikon-cloud/catalog-source.json
+references/nikon-cloud/sync-report.json
+references/nikon-cloud/style-index.json
+references/nikon-cloud/red-contact-sheet.jpg
+assets/nikon-cloud/samples/*.jpg
+
+# Lightroom task state belongs outside the skill repository.
+.photo-grade/

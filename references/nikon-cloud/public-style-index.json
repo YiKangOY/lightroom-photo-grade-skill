@@ -1,0 +1,5208 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-10T14:36:22.934953+00:00",
+  "record_count": 142,
+  "source_url": "https://imagingcloud.nikon.com.cn/recipe/release/?bookId=01HXDNNTHY1AZ6RVMMXSXY3BTK",
+  "notice": "Discovery index containing non-official workflow interpretations. Official descriptions, parameters, metadata, signed URLs, hashes, and display images are excluded.",
+  "records": [
+    {
+      "id": "01K7DVGQ5C211K3AHX96G1139N",
+      "name": "24Look by 24Frames",
+      "photographer": "24Frames",
+      "public_date": "2025-10-16T10:01:24+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K7DVGQ5C211K3AHX96G1139N&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K7DVGQ5C211K3AHX96G1139N.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "24Look by 24Frames：以样张偏暖为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏自然。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCC0S7705SDWNWNKQ5F2T",
+      "name": "Sunset Glow by Amanatsu Mikan",
+      "photographer": "Amanatsu Mikan",
+      "public_date": "2024-11-21T14:32:55+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCC0S7705SDWNWNKQ5F2T&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCC0S7705SDWNWNKQ5F2T.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunset Glow by Amanatsu Mikan：以冷蓝、绿色、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏温暖。",
+        "palette": [
+          "冷蓝",
+          "绿色",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "街头",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、街头、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KVA5GP34J9DJHC7MSYVC86JW",
+      "name": "Vintage Touch by Amy Shore",
+      "photographer": "Amy Shore",
+      "public_date": "2026-06-23T10:18:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KVA5GP34J9DJHC7MSYVC86JW&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KVA5GP34J9DJHC7MSYVC86JW.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Touch by Amy Shore：以样张偏暖为主要关系，偏低反差；阴影自然，柔和高光，综合色彩呈中等饱和；整体偏复古。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏低反差；阴影自然，柔和高光（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "旅行"
+        ],
+        "best_for": "优先用于旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9THM5HRS3MT1VGKNZ04TD",
+      "name": "Bleach Blue by Aparupa Dey",
+      "photographer": "Aparupa Dey",
+      "public_date": "2024-10-24T11:41:58+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9THM5HRS3MT1VGKNZ04TD&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9THM5HRS3MT1VGKNZ04TD.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Bleach Blue by Aparupa Dey：以冷蓝、棕褐/大地色、柔和中性色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏清新、忧郁、宁静。",
+        "palette": [
+          "冷蓝",
+          "棕褐/大地色",
+          "柔和中性色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "清新",
+          "忧郁",
+          "宁静"
+        ],
+        "scene_tags": [
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCANEGDKSWZBNK1YBS346",
+      "name": "Sunset Reset by Baek Jaekwang",
+      "photographer": "Baek Jaekwang",
+      "public_date": "2024-11-21T13:44:01+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCANEGDKSWZBNK1YBS346&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCANEGDKSWZBNK1YBS346.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunset Reset by Baek Jaekwang：以金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖、宁静。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "宁静",
+          "自然"
+        ],
+        "scene_tags": [
+          "室内"
+        ],
+        "best_for": "优先用于室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY4X8B3M55RV42J121ZAAR",
+      "name": "Warm Street by Ben",
+      "photographer": "Ben",
+      "public_date": "2025-04-24T09:09:06+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY4X8B3M55RV42J121ZAAR&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY4X8B3M55RV42J121ZAAR.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Warm Street by Ben：以冷蓝为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏自然、鲜艳。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "自然",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "风景",
+          "街头"
+        ],
+        "best_for": "优先用于风景、街头，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9P2FW1RG1913ZPWQFE8QB",
+      "name": "Cinematic Blue by Brandon Woelfel",
+      "photographer": "Brandon Woelfel",
+      "public_date": "2024-10-24T11:39:26+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9P2FW1RG1913ZPWQFE8QB&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9P2FW1RG1913ZPWQFE8QB.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cinematic Blue by Brandon Woelfel：以冷蓝、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感。",
+        "palette": [
+          "冷蓝",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9HXBBVEN6JV62KMBD6VN9",
+      "name": "Neon Glow by Brandon Woelfel",
+      "photographer": "Brandon Woelfel",
+      "public_date": "2024-10-24T11:37:09+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9HXBBVEN6JV62KMBD6VN9&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9HXBBVEN6JV62KMBD6VN9.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Neon Glow by Brandon Woelfel：以冷蓝为主要关系，中等反差；深阴影，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、柔和、鲜艳。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；深阴影，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "街头",
+          "夜景",
+          "旅行"
+        ],
+        "best_for": "优先用于人像、风景、街头、夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9DGQPS3BKN8V74RKT3AB2",
+      "name": "Teal & Orange by Brandon Woelfel",
+      "photographer": "Brandon Woelfel",
+      "public_date": "2024-10-24T11:34:49+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9DGQPS3BKN8V74RKT3AB2&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9DGQPS3BKN8V74RKT3AB2.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Teal & Orange by Brandon Woelfel：以青蓝、冷蓝、暖橙、红色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏温暖。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "暖橙",
+          "红色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTZSNBEC0AY4J1ACJ51RG6",
+      "name": "Moody Greens by Brittany Eliza Kunkel",
+      "photographer": "Brittany Eliza Kunkel",
+      "public_date": "2025-02-19T10:17:35+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTZSNBEC0AY4J1ACJ51RG6&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTZSNBEC0AY4J1ACJ51RG6.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Moody Greens by Brittany Eliza Kunkel：以绿色为主要关系，中等反差；深阴影，高光适中，综合色彩呈克制/低饱和；整体偏柔和、忧郁、强烈。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "中等反差；深阴影，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "柔和",
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBV6RMZ5WBYW3NYB732D0JC",
+      "name": "Shades of Fall by Brittany Eliza Kunkel",
+      "photographer": "Brittany Eliza Kunkel",
+      "public_date": "2025-02-19T10:17:53+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBV6RMZ5WBYW3NYB732D0JC&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBV6RMZ5WBYW3NYB732D0JC.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Shades of Fall by Brittany Eliza Kunkel：以金黄、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖、鲜艳。",
+        "palette": [
+          "金黄",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "风景",
+          "室内",
+          "自然"
+        ],
+        "best_for": "优先用于风景、室内、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVA1316K97WJ335HP64DNG",
+      "name": "Vintage Autumn by Brittany Eliza Kunkel",
+      "photographer": "Brittany Eliza Kunkel",
+      "public_date": "2025-02-19T10:18:10+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVA1316K97WJ335HP64DNG&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVA1316K97WJ335HP64DNG.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Autumn by Brittany Eliza Kunkel：以绿色、暖橙、金黄、棕褐/大地色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏电影感、复古、柔和。",
+        "palette": [
+          "绿色",
+          "暖橙",
+          "金黄",
+          "棕褐/大地色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6P06824N47SRMFKPFFYESZ",
+      "name": "Golden Hour Glow by D'Ann Boal",
+      "photographer": "D'Ann Boal",
+      "public_date": "2024-11-21T14:20:02+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6P06824N47SRMFKPFFYESZ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6P06824N47SRMFKPFFYESZ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Golden Hour Glow by D'Ann Boal：以绿色、金黄、棕褐/大地色为主要关系，中等反差；阴影自然，明亮高光，综合色彩呈鲜明/较高饱和；整体偏温暖、鲜艳。",
+        "palette": [
+          "绿色",
+          "金黄",
+          "棕褐/大地色"
+        ],
+        "tone": "中等反差；阴影自然，明亮高光（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCAZ9ZD3RM5Z8AKCKQZ08",
+      "name": "Painterly Light by D'Ann Boal",
+      "photographer": "D'Ann Boal",
+      "public_date": "2024-11-21T14:21:03+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCAZ9ZD3RM5Z8AKCKQZ08&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCAZ9ZD3RM5Z8AKCKQZ08.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Painterly Light by D'Ann Boal：以冷蓝、金黄为主要关系，偏高反差；深阴影，高光适中，综合色彩呈鲜明/较高饱和；整体偏温暖。",
+        "palette": [
+          "冷蓝",
+          "金黄"
+        ],
+        "tone": "偏高反差；深阴影，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "温暖"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6NRE9BK6R2S8PG6EZTYP49",
+      "name": "Sunlight & Happiness by D'Ann Boal",
+      "photographer": "D'Ann Boal",
+      "public_date": "2024-11-21T14:21:38+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6NRE9BK6R2S8PG6EZTYP49&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6NRE9BK6R2S8PG6EZTYP49.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunlight & Happiness by D'Ann Boal：以绿色、金黄为主要关系，偏高反差；开放阴影，柔和高光，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖、自然。",
+        "palette": [
+          "绿色",
+          "金黄"
+        ],
+        "tone": "偏高反差；开放阴影，柔和高光（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "自然",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY985WJNDZFZ9EHX21FXHGQ",
+      "name": "DG Film Look by Danny Gevirtz",
+      "photographer": "Danny Gevirtz",
+      "public_date": "2024-10-24T11:31:51+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY985WJNDZFZ9EHX21FXHGQ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY985WJNDZFZ9EHX21FXHGQ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "DG Film Look by Danny Gevirtz：以样张偏暖为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、清新。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "清新",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "室内",
+          "视频"
+        ],
+        "best_for": "优先用于人像、室内、视频，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH324979R9NKR3M1S99B4",
+      "name": "Calm Breeze by Dondre Green",
+      "photographer": "Dondre Green",
+      "public_date": "2024-11-21T13:35:36+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH324979R9NKR3M1S99B4&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH324979R9NKR3M1S99B4.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Calm Breeze by Dondre Green：以绿色、金黄、柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖。",
+        "palette": [
+          "绿色",
+          "金黄",
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "街头",
+          "夜景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、街头、夜景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH375YGEXSD96VYRRKRE6",
+      "name": "Nights Like This  by Dondre Green",
+      "photographer": "Dondre Green",
+      "public_date": "2024-11-21T13:35:55+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH375YGEXSD96VYRRKRE6&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH375YGEXSD96VYRRKRE6.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Nights Like This  by Dondre Green：以绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "人像",
+          "夜景"
+        ],
+        "best_for": "优先用于人像、夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH2YA7TK5HY74QCRHF1Q1",
+      "name": "Summertime Shine by Dondre Green",
+      "photographer": "Dondre Green",
+      "public_date": "2024-11-21T13:35:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH2YA7TK5HY74QCRHF1Q1&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH2YA7TK5HY74QCRHF1Q1.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Summertime Shine by Dondre Green：以绿色、暖橙、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、温暖。",
+        "palette": [
+          "绿色",
+          "暖橙",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "街头",
+          "自然",
+          "旅行"
+        ],
+        "best_for": "优先用于人像、街头、自然、旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVH04T70GKHN43MKKK2JY",
+      "name": "Winter Hues by Eeva",
+      "photographer": "Eeva",
+      "public_date": "2025-09-25T09:21:49+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVH04T70GKHN43MKKK2JY&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVH04T70GKHN43MKKK2JY.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Winter Hues by Eeva：以粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和。",
+        "palette": [
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JZ9Z3X3T4W1QZDCSMAW2B6Y2",
+      "name": "Crystal Clear by Eisuke Ishibashi",
+      "photographer": "Eisuke Ishibashi",
+      "public_date": "2025-07-09T09:14:33+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JZ9Z3X3T4W1QZDCSMAW2B6Y2&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JZ9Z3X3T4W1QZDCSMAW2B6Y2.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Crystal Clear by Eisuke Ishibashi：以青蓝、冷蓝为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏自然。",
+        "palette": [
+          "青蓝",
+          "冷蓝"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY948WX5Q9DKCSY7V4FNX6M",
+      "name": "Boho Look by Emilie Hill",
+      "photographer": "Emilie Hill",
+      "public_date": "2024-10-24T11:29:40+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY948WX5Q9DKCSY7V4FNX6M&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY948WX5Q9DKCSY7V4FNX6M.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Boho Look by Emilie Hill：以红色、粉色/洋红、柔和中性色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏柔和、温暖。",
+        "palette": [
+          "红色",
+          "粉色/洋红",
+          "柔和中性色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "室内",
+          "自然",
+          "旅行"
+        ],
+        "best_for": "优先用于人像、室内、自然、旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "降低综合色度",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY901PZW0C85DRB4AXXFA92",
+      "name": "Golden Dusk by Emilie Hill",
+      "photographer": "Emilie Hill",
+      "public_date": "2024-10-24T11:27:29+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY901PZW0C85DRB4AXXFA92&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY901PZW0C85DRB4AXXFA92.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Golden Dusk by Emilie Hill：以暖橙、金黄、柔和中性色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、柔和、温暖。",
+        "palette": [
+          "暖橙",
+          "金黄",
+          "柔和中性色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "街头",
+          "建筑"
+        ],
+        "best_for": "优先用于人像、风景、街头、建筑，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVH7FXXB79DZBVP4GF2HV",
+      "name": "Cyanora by Eyes Of Belga",
+      "photographer": "Eyes Of Belga",
+      "public_date": "2025-09-25T09:22:12+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVH7FXXB79DZBVP4GF2HV&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVH7FXXB79DZBVP4GF2HV.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cyanora by Eyes Of Belga：以青蓝、冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY2WHS4KX6SVD8F65VW5F1",
+      "name": "Filmic by Fabio Oliveira",
+      "photographer": "Fabio Oliveira",
+      "public_date": "2025-04-24T09:07:03+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY2WHS4KX6SVD8F65VW5F1&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY2WHS4KX6SVD8F65VW5F1.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Filmic by Fabio Oliveira：以样张中性为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、温暖。",
+        "palette": [
+          "样张中性"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "温暖"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY2WX5SCDESCR0ABQFRMXB",
+      "name": "Call It Love by Faloo Mi",
+      "photographer": "Faloo Mi",
+      "public_date": "2025-04-24T09:07:20+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY2WX5SCDESCR0ABQFRMXB&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY2WX5SCDESCR0ABQFRMXB.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Call It Love by Faloo Mi：以金黄、粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏强烈、鲜艳。",
+        "palette": [
+          "金黄",
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVHG5ASQ8M9Y4R5DH9YX3",
+      "name": "Vibrant 2383 by Francois Lamoureux",
+      "photographer": "Francois Lamoureux",
+      "public_date": "2025-09-25T09:22:51+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVHG5ASQ8M9Y4R5DH9YX3&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVHG5ASQ8M9Y4R5DH9YX3.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vibrant 2383 by Francois Lamoureux：以柔和中性色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、柔和。",
+        "palette": [
+          "柔和中性色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "柔和",
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然",
+          "视频"
+        ],
+        "best_for": "优先用于人像、自然、视频，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDSNTVK9YEGA37N3PCAJ7B9",
+      "name": "Rose Old Film by Fujikawa hinano",
+      "photographer": "Fujikawa hinano",
+      "public_date": "2025-04-24T09:05:35+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDSNTVK9YEGA37N3PCAJ7B9&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDSNTVK9YEGA37N3PCAJ7B9.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Rose Old Film by Fujikawa hinano：以红色、粉色/洋红为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、柔和。",
+        "palette": [
+          "红色",
+          "粉色/洋红"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "柔和"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "降低综合色度",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDSNV4EZPYFW54N7NDDYERW",
+      "name": "Sky Mist Film by Fujikawa hinano",
+      "photographer": "Fujikawa hinano",
+      "public_date": "2025-04-24T09:06:04+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDSNV4EZPYFW54N7NDDYERW&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDSNV4EZPYFW54N7NDDYERW.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sky Mist Film by Fujikawa hinano：以冷蓝、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、清新。",
+        "palette": [
+          "冷蓝",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "清新",
+          "忧郁"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCCA08KXP5GMV8WKKMBZH",
+      "name": "Tender Clear by Fuka Kamata",
+      "photographer": "Fuka Kamata",
+      "public_date": "2024-11-21T14:33:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCCA08KXP5GMV8WKKMBZH&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCCA08KXP5GMV8WKKMBZH.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Tender Clear by Fuka Kamata：以冷蓝、绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、清新、强烈。",
+        "palette": [
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "清新",
+          "强烈",
+          "宁静"
+        ],
+        "scene_tags": [
+          "风景",
+          "室内",
+          "自然"
+        ],
+        "best_for": "优先用于风景、室内、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCBBTDPEZA4G3F8VXME5M",
+      "name": "Color Splash by Gilmar Smith",
+      "photographer": "Gilmar Smith",
+      "public_date": "2024-11-21T14:25:43+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCBBTDPEZA4G3F8VXME5M&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCBBTDPEZA4G3F8VXME5M.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Splash by Gilmar Smith：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖、鲜艳。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCB7ZHN2DE87811E7GDAE",
+      "name": "Moody Shadows by Gilmar Smith",
+      "photographer": "Gilmar Smith",
+      "public_date": "2024-11-21T14:26:12+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCB7ZHN2DE87811E7GDAE&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCB7ZHN2DE87811E7GDAE.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Moody Shadows by Gilmar Smith：以样张偏冷为主要关系，偏高反差；深阴影，柔和高光，综合色彩呈中等饱和；整体偏柔和、忧郁、温暖。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；深阴影，柔和高光（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "忧郁",
+          "温暖"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCB3D7G5ZQXP3D18VXAW5",
+      "name": "Primary Pop by Gilmar Smith",
+      "photographer": "Gilmar Smith",
+      "public_date": "2024-11-21T14:26:45+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCB3D7G5ZQXP3D18VXAW5&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCB3D7G5ZQXP3D18VXAW5.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Primary Pop by Gilmar Smith：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏强烈、鲜艳。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYC9MAHMPG3SR8ERCXS2620",
+      "name": "HT Harmony by Hanaa Turkistani",
+      "photographer": "Hanaa Turkistani",
+      "public_date": "2024-10-24T13:20:12+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYC9MAHMPG3SR8ERCXS2620&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYC9MAHMPG3SR8ERCXS2620.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "HT Harmony by Hanaa Turkistani：以青蓝、冷蓝、绿色、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏鲜艳。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY2X2T5C94YHYFK2C574ER",
+      "name": "The SOFT GLOW AURA by Harpreet Singh",
+      "photographer": "Harpreet Singh",
+      "public_date": "2025-04-24T09:07:39+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY2X2T5C94YHYFK2C574ER&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY2X2T5C94YHYFK2C574ER.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "The SOFT GLOW AURA by Harpreet Singh：以柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、宁静。",
+        "palette": [
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "宁静"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCBR5R4GYSQW0CWSGBEYK",
+      "name": "Hidamari Color by Haruka Koharu",
+      "photographer": "Haruka Koharu",
+      "public_date": "2024-11-21T14:28:11+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCBR5R4GYSQW0CWSGBEYK&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCBR5R4GYSQW0CWSGBEYK.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Hidamari Color by Haruka Koharu：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "风景",
+          "自然",
+          "建筑"
+        ],
+        "best_for": "优先用于风景、自然、建筑，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYB9TM7X0AVFJE1GPR64NT4",
+      "name": "Moisture Green by Hiroki Nose",
+      "photographer": "Hiroki Nose",
+      "public_date": "2024-10-24T13:18:11+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYB9TM7X0AVFJE1GPR64NT4&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYB9TM7X0AVFJE1GPR64NT4.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Moisture Green by Hiroki Nose：以绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY2X8EW2KGQV9EJ9QTFFXJ",
+      "name": "HK Reminiscence by Hiuman Lam",
+      "photographer": "Hiuman Lam",
+      "public_date": "2025-04-24T09:08:04+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY2X8EW2KGQV9EJ9QTFFXJ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY2X8EW2KGQV9EJ9QTFFXJ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "HK Reminiscence by Hiuman Lam：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、柔和。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "柔和",
+          "忧郁",
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "风景",
+          "街头",
+          "夜景",
+          "室内"
+        ],
+        "best_for": "优先用于风景、街头、夜景、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KH8Q3FWC79VJMMJ6C737Q7HX",
+      "name": "Pink Watercolor by HYEYA",
+      "photographer": "HYEYA",
+      "public_date": "2026-02-25T09:07:13+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KH8Q3FWC79VJMMJ6C737Q7HX&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KH8Q3FWC79VJMMJ6C737Q7HX.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Pink Watercolor by HYEYA：以粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、清新、宁静。",
+        "palette": [
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "清新",
+          "宁静"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVH4A8FS1M7W98QGWVXC6E",
+      "name": "Fern by Ian Harland",
+      "photographer": "Ian Harland",
+      "public_date": "2025-02-19T10:19:04+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVH4A8FS1M7W98QGWVXC6E&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVH4A8FS1M7W98QGWVXC6E.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Fern by Ian Harland：以冷蓝、绿色、柔和中性色为主要关系，偏高反差；深阴影，高光适中，综合色彩呈中等饱和；整体偏电影感、柔和、忧郁。",
+        "palette": [
+          "冷蓝",
+          "绿色",
+          "柔和中性色"
+        ],
+        "tone": "偏高反差；深阴影，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感",
+          "柔和",
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVM7P3ZJZKQBJJSKXWC7JB",
+      "name": "Glow by Ian Harland",
+      "photographer": "Ian Harland",
+      "public_date": "2025-02-19T10:19:20+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVM7P3ZJZKQBJJSKXWC7JB&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVM7P3ZJZKQBJJSKXWC7JB.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Glow by Ian Harland：以样张偏暖为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVDR41VAJBNY8SH0TJQXX3",
+      "name": "Honey by Ian Harland",
+      "photographer": "Ian Harland",
+      "public_date": "2025-02-19T10:18:45+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVDR41VAJBNY8SH0TJQXX3&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVDR41VAJBNY8SH0TJQXX3.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Honey by Ian Harland：以金黄、柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏柔和、温暖。",
+        "palette": [
+          "金黄",
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXTAN3253FEGRK0941MM6GM",
+      "name": "Movie Green Orange by Instant Film Studio",
+      "photographer": "Instant Film Studio",
+      "public_date": "2025-12-10T09:10:53+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXTAN3253FEGRK0941MM6GM&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXTAN3253FEGRK0941MM6GM.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Movie Green Orange by Instant Film Studio：以绿色、暖橙为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感、复古、柔和。",
+        "palette": [
+          "绿色",
+          "暖橙"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "柔和",
+          "清新"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY4WN88219BJHSZB5RAVGX",
+      "name": "Sunset Film Portrait by Jatenipat Ketpradit (JKBoy)",
+      "photographer": "Jatenipat Ketpradit (JKBoy)",
+      "public_date": "2025-04-24T09:08:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY4WN88219BJHSZB5RAVGX&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY4WN88219BJHSZB5RAVGX.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunset Film Portrait by Jatenipat Ketpradit (JKBoy)：以暖橙、金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、温暖、强烈。",
+        "palette": [
+          "暖橙",
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GDJRPD7BTVBN7FBZF5D54",
+      "name": "Hazy Memories by Julia Nimke",
+      "photographer": "Julia Nimke",
+      "public_date": "2024-11-21T13:34:42+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GDJRPD7BTVBN7FBZF5D54&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GDJRPD7BTVBN7FBZF5D54.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Hazy Memories by Julia Nimke：以样张偏冷为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、温暖。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "温暖"
+        ],
+        "scene_tags": [
+          "风景",
+          "街头",
+          "建筑"
+        ],
+        "best_for": "优先用于风景、街头、建筑，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH2PW7GDZ1S7206FG3421",
+      "name": "Indoor Harmony by Julia Nimke",
+      "photographer": "Julia Nimke",
+      "public_date": "2024-11-21T13:35:02+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH2PW7GDZ1S7206FG3421&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH2PW7GDZ1S7206FG3421.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Indoor Harmony by Julia Nimke：以柔和中性色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏宁静。",
+        "palette": [
+          "柔和中性色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "宁静"
+        ],
+        "scene_tags": [
+          "人像",
+          "室内",
+          "建筑",
+          "静物"
+        ],
+        "best_for": "优先用于人像、室内、建筑、静物，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6FNFK09DK9BW7Y266KH9WF",
+      "name": "Sunkissed Cool by Julia Nimke",
+      "photographer": "Julia Nimke",
+      "public_date": "2024-11-21T13:34:14+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6FNFK09DK9BW7Y266KH9WF&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6FNFK09DK9BW7Y266KH9WF.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunkissed Cool by Julia Nimke：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "人像",
+          "静物"
+        ],
+        "best_for": "优先用于人像、静物，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6FGX28AYSP9H9B036N1T2D",
+      "name": "Sunkissed Warmth by Julia Nimke",
+      "photographer": "Julia Nimke",
+      "public_date": "2024-11-21T13:33:44+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6FGX28AYSP9H9B036N1T2D&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6FGX28AYSP9H9B036N1T2D.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Sunkissed Warmth by Julia Nimke：以暖橙为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、温暖、强烈。",
+        "palette": [
+          "暖橙"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KH8Q3G1M2EHCJST14GS5Q7VR",
+      "name": "Bluegrain by jyota tomonori",
+      "photographer": "jyota tomonori",
+      "public_date": "2026-02-25T09:07:31+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KH8Q3G1M2EHCJST14GS5Q7VR&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KH8Q3G1M2EHCJST14GS5Q7VR.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Bluegrain by jyota tomonori：以冷蓝、柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、清新。",
+        "palette": [
+          "冷蓝",
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "清新",
+          "温暖",
+          "宁静",
+          "自然"
+        ],
+        "scene_tags": [
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVJ403XBYXZNKX1N08CTX",
+      "name": "Cinematic Night-Red by Kazu Fujisawa",
+      "photographer": "Kazu Fujisawa",
+      "public_date": "2025-09-25T09:24:01+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVJ403XBYXZNKX1N08CTX&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVJ403XBYXZNKX1N08CTX.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cinematic Night-Red by Kazu Fujisawa：以绿色、暖橙、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感。",
+        "palette": [
+          "绿色",
+          "暖橙",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "人像",
+          "夜景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、夜景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVHZHE954D7Q4V7CCNTK8",
+      "name": "Vintage Flash by Kazu Fujisawa",
+      "photographer": "Kazu Fujisawa",
+      "public_date": "2025-09-25T09:23:41+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVHZHE954D7Q4V7CCNTK8&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVHZHE954D7Q4V7CCNTK8.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Flash by Kazu Fujisawa：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、强烈。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVHSJJS9ZCA8H2DN8MXQK",
+      "name": "Vintage Portrait by Kazu Fujisawa",
+      "photographer": "Kazu Fujisawa",
+      "public_date": "2025-09-25T09:23:24+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVHSJJS9ZCA8H2DN8MXQK&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVHSJJS9ZCA8H2DN8MXQK.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Portrait by Kazu Fujisawa：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、强烈。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像",
+          "夜景",
+          "室内"
+        ],
+        "best_for": "优先用于人像、夜景、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVHN7PST7TYD7KJBXY9ZD",
+      "name": "Faded Blue Film by Kimura Hinami",
+      "photographer": "Kimura Hinami",
+      "public_date": "2025-09-25T09:23:07+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVHN7PST7TYD7KJBXY9ZD&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVHN7PST7TYD7KJBXY9ZD.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Faded Blue Film by Kimura Hinami：以冷蓝为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、温暖、宁静。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "宁静",
+          "自然"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "街头",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、街头、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K7DVGPJQ432W251WK35W8B2K",
+      "name": "Yuragi by Kimura Hinami",
+      "photographer": "Kimura Hinami",
+      "public_date": "2025-10-16T10:00:27+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K7DVGPJQ432W251WK35W8B2K&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K7DVGPJQ432W251WK35W8B2K.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Yuragi by Kimura Hinami：以冷蓝、绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、自然、鲜艳。",
+        "palette": [
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "自然",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KH8Q3FM39N66MP437VRZA7DZ",
+      "name": "Golden Grid by Kyungjun Lee",
+      "photographer": "Kyungjun Lee",
+      "public_date": "2026-02-25T09:06:51+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KH8Q3FM39N66MP437VRZA7DZ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KH8Q3FM39N66MP437VRZA7DZ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Golden Grid by Kyungjun Lee：以冷蓝、金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏清新、温暖、强烈。",
+        "palette": [
+          "冷蓝",
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "清新",
+          "温暖",
+          "强烈"
+        ],
+        "scene_tags": [
+          "街头"
+        ],
+        "best_for": "优先用于街头，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCA9XZXQKAWFD0EP57Z81",
+      "name": "Cozy Autumn by Leno Cainelli",
+      "photographer": "Leno Cainelli",
+      "public_date": "2024-11-21T13:41:41+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCA9XZXQKAWFD0EP57Z81&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCA9XZXQKAWFD0EP57Z81.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cozy Autumn by Leno Cainelli：以冷蓝、暖橙、红色、棕褐/大地色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖。",
+        "palette": [
+          "冷蓝",
+          "暖橙",
+          "红色",
+          "棕褐/大地色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCAH4V665NZ4CYQ8WJDS3",
+      "name": "Dawn Hues by Leno Cainelli",
+      "photographer": "Leno Cainelli",
+      "public_date": "2024-11-21T13:42:16+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCAH4V665NZ4CYQ8WJDS3&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCAH4V665NZ4CYQ8WJDS3.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Dawn Hues by Leno Cainelli：以金黄为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖、宁静。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "宁静"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH3FZFKP9RGXGYQZNVZ44",
+      "name": "Film Pop by Leno Cainelli",
+      "photographer": "Leno Cainelli",
+      "public_date": "2024-11-21T13:41:06+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH3FZFKP9RGXGYQZNVZ44&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH3FZFKP9RGXGYQZNVZ44.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Film Pop by Leno Cainelli：以样张偏暖为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、强烈、自然。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "强烈",
+          "自然",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "街头",
+          "旅行"
+        ],
+        "best_for": "优先用于街头、旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GH3BC0PR7NHVVD1NBPSKZ",
+      "name": "Soft Film by Leno Cainelli",
+      "photographer": "Leno Cainelli",
+      "public_date": "2024-11-21T13:40:24+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GH3BC0PR7NHVVD1NBPSKZ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GH3BC0PR7NHVVD1NBPSKZ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Soft Film by Leno Cainelli：以样张中性为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、温暖。",
+        "palette": [
+          "样张中性"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "温暖",
+          "宁静"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景"
+        ],
+        "best_for": "优先用于人像、风景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYCCCHHNG6AWXA2MF43C9ZF",
+      "name": "Nature by Links",
+      "photographer": "Links",
+      "public_date": "2024-10-24T13:20:44+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYCCCHHNG6AWXA2MF43C9ZF&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYCCCHHNG6AWXA2MF43C9ZF.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Nature by Links：以样张偏冷为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、自然。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "自然"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXTAMMGEXW6MNCWQ7D5RA0J",
+      "name": "VINTAGE FILM by Ludwig Favre",
+      "photographer": "Ludwig Favre",
+      "public_date": "2025-12-10T09:10:38+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXTAMMGEXW6MNCWQ7D5RA0J&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXTAMMGEXW6MNCWQ7D5RA0J.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "VINTAGE FILM by Ludwig Favre：以金黄、棕褐/大地色为主要关系，中等反差；阴影自然，柔和高光，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、柔和。",
+        "palette": [
+          "金黄",
+          "棕褐/大地色"
+        ],
+        "tone": "中等反差；阴影自然，柔和高光（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "柔和",
+          "温暖",
+          "自然",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景"
+        ],
+        "best_for": "优先用于人像、风景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8WHRQFGB7F1S4626H98VT",
+      "name": "Blue Mood by LUIZCLAS",
+      "photographer": "LUIZCLAS",
+      "public_date": "2024-10-24T11:25:34+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8WHRQFGB7F1S4626H98VT&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8WHRQFGB7F1S4626H98VT.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Blue Mood by LUIZCLAS：以冷蓝、暖橙为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏清新、温暖。",
+        "palette": [
+          "冷蓝",
+          "暖橙"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "清新",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "室内"
+        ],
+        "best_for": "优先用于人像、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8RGR4X7W9JPY511DZ2E00",
+      "name": "Cine Mood by LUIZCLAS",
+      "photographer": "LUIZCLAS",
+      "public_date": "2024-10-24T11:23:19+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8RGR4X7W9JPY511DZ2E00&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8RGR4X7W9JPY511DZ2E00.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cine Mood by LUIZCLAS：以青蓝为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感、温暖。",
+        "palette": [
+          "青蓝"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感",
+          "温暖"
+        ],
+        "scene_tags": [
+          "夜景",
+          "室内"
+        ],
+        "best_for": "优先用于夜景、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8KW01SHM1ZQCC2FYEWG45",
+      "name": "Purple Mood by LUIZCLAS",
+      "photographer": "LUIZCLAS",
+      "public_date": "2024-10-24T11:21:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8KW01SHM1ZQCC2FYEWG45&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8KW01SHM1ZQCC2FYEWG45.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Purple Mood by LUIZCLAS：以金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、忧郁、强烈。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "室内"
+        ],
+        "best_for": "优先用于室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8FQEE201QX5BGSZCSQHSG",
+      "name": "Red Mood by LUIZCLAS",
+      "photographer": "LUIZCLAS",
+      "public_date": "2024-10-24T11:18:34+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8FQEE201QX5BGSZCSQHSG&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8FQEE201QX5BGSZCSQHSG.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Red Mood by LUIZCLAS：以红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感、复古、忧郁。",
+        "palette": [
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "夜景",
+          "室内"
+        ],
+        "best_for": "优先用于夜景、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYCJP2B79XXAHE7YT7B1ME4",
+      "name": "Blue Hour by Luna",
+      "photographer": "Luna",
+      "public_date": "2024-10-24T13:21:31+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYCJP2B79XXAHE7YT7B1ME4&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYCJP2B79XXAHE7YT7B1ME4.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Blue Hour by Luna：以冷蓝为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏鲜艳。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "夜景",
+          "自然"
+        ],
+        "best_for": "优先用于夜景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYCN9T6R4AZ6205CE1YCYGV",
+      "name": "Warm-toned dim lighting by Luna",
+      "photographer": "Luna",
+      "public_date": "2024-10-24T13:21:50+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYCN9T6R4AZ6205CE1YCYGV&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYCN9T6R4AZ6205CE1YCYGV.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Warm-toned dim lighting by Luna：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "室内"
+        ],
+        "best_for": "优先用于室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVHBPFEFFA9DZBSA1DTHQ",
+      "name": "Summertime by Marcello Zerletti",
+      "photographer": "Marcello Zerletti",
+      "public_date": "2025-09-25T09:22:32+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVHBPFEFFA9DZBSA1DTHQ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVHBPFEFFA9DZBSA1DTHQ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Summertime by Marcello Zerletti：以冷蓝、绿色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、柔和、温暖。",
+        "palette": [
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "街头",
+          "自然"
+        ],
+        "best_for": "优先用于街头、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KVA5GNSGV2C6XKKXHZXJPQ0K",
+      "name": "Honey Tale by MASAYA",
+      "photographer": "MASAYA",
+      "public_date": "2026-06-23T10:18:07+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KVA5GNSGV2C6XKKXHZXJPQ0K&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KVA5GNSGV2C6XKKXHZXJPQ0K.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Honey Tale by MASAYA：以样张偏暖为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和、温暖、自然。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "自然"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYCF1BF3K1DDM9TS3N97S89",
+      "name": "Textured Documentary by MediaStorm",
+      "photographer": "MediaStorm",
+      "public_date": "2024-10-24T13:21:07+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYCF1BF3K1DDM9TS3N97S89&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYCF1BF3K1DDM9TS3N97S89.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Textured Documentary by MediaStorm：以红色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏自然。",
+        "palette": [
+          "红色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "建筑"
+        ],
+        "best_for": "优先用于建筑，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KH8Q3G61H44HAD9FFBG9BPVQ",
+      "name": "MOSS by Nagisa Ichikawa",
+      "photographer": "Nagisa Ichikawa",
+      "public_date": "2026-02-25T09:07:50+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KH8Q3G61H44HAD9FFBG9BPVQ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KH8Q3G61H44HAD9FFBG9BPVQ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "MOSS by Nagisa Ichikawa：以绿色、金黄、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、清新、忧郁。",
+        "palette": [
+          "绿色",
+          "金黄",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "清新",
+          "忧郁",
+          "宁静",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "夜景",
+          "旅行"
+        ],
+        "best_for": "优先用于夜景、旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KH8Q3GCT3NV5FVVVBJBHQ851",
+      "name": "QUIET by Nagisa Ichikawa",
+      "photographer": "Nagisa Ichikawa",
+      "public_date": "2026-02-25T09:08:07+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KH8Q3GCT3NV5FVVVBJBHQ851&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KH8Q3GCT3NV5FVVVBJBHQ851.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "QUIET by Nagisa Ichikawa：以样张中性为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、柔和、强烈。",
+        "palette": [
+          "样张中性"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "强烈",
+          "宁静",
+          "自然"
+        ],
+        "scene_tags": [
+          "街头",
+          "室内",
+          "自然",
+          "静物"
+        ],
+        "best_for": "优先用于街头、室内、自然、静物，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY4X1BM00XS5P1XZ2XH37P",
+      "name": "Coastal Glow by Najmuddin Muif",
+      "photographer": "Najmuddin Muif",
+      "public_date": "2025-04-24T09:08:48+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY4X1BM00XS5P1XZ2XH37P&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY4X1BM00XS5P1XZ2XH37P.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Coastal Glow by Najmuddin Muif：以冷蓝、金黄、柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、宁静。",
+        "palette": [
+          "冷蓝",
+          "金黄",
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "宁静"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9G0DK9075GSBBBTY9W0EP",
+      "name": "Bleach Bypass 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:36:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9G0DK9075GSBBBTY9W0EP&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9G0DK9075GSBBBTY9W0EP.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Bleach Bypass 01a：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8C8T5V2GEGMX4WZMHS1R2",
+      "name": "Color Mode Blue 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:17:20+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8C8T5V2GEGMX4WZMHS1R2&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8C8T5V2GEGMX4WZMHS1R2.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Blue 01a：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏自然。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8JTJMS9SW5A9RMSSXSDZX",
+      "name": "Color Mode Blue 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:21:16+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8JTJMS9SW5A9RMSSXSDZX&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8JTJMS9SW5A9RMSSXSDZX.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Blue 01b：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏自然。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8S75C92Y38PDKQYDWC98F",
+      "name": "Color Mode Green 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:24:30+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8S75C92Y38PDKQYDWC98F&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8S75C92Y38PDKQYDWC98F.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Green 01a：以冷蓝、绿色、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏清新。",
+        "palette": [
+          "冷蓝",
+          "绿色",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8ZHQ6J4KKD58YR3R2ATT2",
+      "name": "Color Mode Green 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:27:26+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8ZHQ6J4KKD58YR3R2ATT2&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8ZHQ6J4KKD58YR3R2ATT2.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Green 01b：以绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏清新。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY807NXFMV2HZEGJ1TYKTFE",
+      "name": "Color Mode Teal&Orange 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:10:45+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY807NXFMV2HZEGJ1TYKTFE&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY807NXFMV2HZEGJ1TYKTFE.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Teal&Orange 01a：以青蓝、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感。",
+        "palette": [
+          "青蓝",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY85PNH779THSSK8TZCN7B8",
+      "name": "Color Mode Teal&Orange 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:13:17+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY85PNH779THSSK8TZCN7B8&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY85PNH779THSSK8TZCN7B8.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Teal&Orange 01b：以青蓝、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感。",
+        "palette": [
+          "青蓝",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY955BMSQ74WVSMRK8BC7BA",
+      "name": "Color Mode Yellow 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:31:17+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY955BMSQ74WVSMRK8BC7BA&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY955BMSQ74WVSMRK8BC7BA.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Yellow 01a：以暖橙、金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏鲜艳。",
+        "palette": [
+          "暖橙",
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9B0A7YPBNN9S58C80M32Y",
+      "name": "Color Mode Yellow 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:34:06+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9B0A7YPBNN9S58C80M32Y&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9B0A7YPBNN9S58C80M32Y.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Color Mode Yellow 01b：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏鲜艳。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY5C9JYPKVENBG9WT9B0BWR",
+      "name": "Negative Film Blue 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:25:15+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY5C9JYPKVENBG9WT9B0BWR&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY5C9JYPKVENBG9WT9B0BWR.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Blue 01a：以冷蓝、红色、粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古。",
+        "palette": [
+          "冷蓝",
+          "红色",
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY5JD5S05A4S1QHV06FNZ80",
+      "name": "Negative Film Blue 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:27:32+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY5JD5S05A4S1QHV06FNZ80&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY5JD5S05A4S1QHV06FNZ80.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Blue 01b：以冷蓝为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9YDPKFMDC6G13N3AK7M8Y",
+      "name": "Negative Film Cyan 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:44:41+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9YDPKFMDC6G13N3AK7M8Y&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9YDPKFMDC6G13N3AK7M8Y.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Cyan 01a：以青蓝、绿色、暖橙为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古。",
+        "palette": [
+          "青蓝",
+          "绿色",
+          "暖橙"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY5P0CA96Y1GR893GXTKZ5H",
+      "name": "Negative Film Green&Cyan 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:29:30+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY5P0CA96Y1GR893GXTKZ5H&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY5P0CA96Y1GR893GXTKZ5H.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Green&Cyan 01a：以青蓝、冷蓝、绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY7NZPS06SK20VWV36ETR3S",
+      "name": "Negative Film Tungsten Color 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:04:45+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY7NZPS06SK20VWV36ETR3S&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY7NZPS06SK20VWV36ETR3S.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Tungsten Color 01a：以冷蓝、金黄、红色、粉色/洋红为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏电影感、复古、温暖。",
+        "palette": [
+          "冷蓝",
+          "金黄",
+          "红色",
+          "粉色/洋红"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "温暖"
+        ],
+        "scene_tags": [
+          "夜景"
+        ],
+        "best_for": "优先用于夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY7TAGP5E3H17N0EJAYM60N",
+      "name": "Negative Film Tungsten Color 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:07:52+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY7TAGP5E3H17N0EJAYM60N&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY7TAGP5E3H17N0EJAYM60N.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Tungsten Color 01b：以金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、温暖。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "温暖"
+        ],
+        "scene_tags": [
+          "夜景"
+        ],
+        "best_for": "优先用于夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY529N3SBMRS5ENMYH6CA6Q",
+      "name": "Negative Film Yellow 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:19:23+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY529N3SBMRS5ENMYH6CA6Q&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY529N3SBMRS5ENMYH6CA6Q.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 01a：以冷蓝、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、温暖、强烈。",
+        "palette": [
+          "冷蓝",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY570HX70BNRQMDY4C8CTZ8",
+      "name": "Negative Film Yellow 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:21:51+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY570HX70BNRQMDY4C8CTZ8&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY570HX70BNRQMDY4C8CTZ8.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 01b：以金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、温暖、强烈。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "强烈",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY6HM86T0KN7M2YGM46HVYB",
+      "name": "Negative Film Yellow 02a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:44:40+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY6HM86T0KN7M2YGM46HVYB&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY6HM86T0KN7M2YGM46HVYB.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 02a：以绿色、金黄、红色、粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古。",
+        "palette": [
+          "绿色",
+          "金黄",
+          "红色",
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY6SPZSD4QZF4W00K525PNH",
+      "name": "Negative Film Yellow 02b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:49:10+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY6SPZSD4QZF4W00K525PNH&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY6SPZSD4QZF4W00K525PNH.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 02b：以金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY6XZTYYKNWKFJ021F7FDQ3",
+      "name": "Negative Film Yellow 03a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:51:52+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY6XZTYYKNWKFJ021F7FDQ3&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY6XZTYYKNWKFJ021F7FDQ3.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 03a：以冷蓝、绿色、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、鲜艳。",
+        "palette": [
+          "冷蓝",
+          "绿色",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY778JF86CSJB1N8P704EK5",
+      "name": "Negative Film Yellow 03b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:56:44+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY778JF86CSJB1N8P704EK5&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY778JF86CSJB1N8P704EK5.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow 03b：以金黄为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、鲜艳。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9MPW6QEREEDXPHM2HJKAZ",
+      "name": "Negative Film Yellow&Cyan 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:38:58+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9MPW6QEREEDXPHM2HJKAZ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9MPW6QEREEDXPHM2HJKAZ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow&Cyan 01a：以青蓝为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、宁静。",
+        "palette": [
+          "青蓝"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "宁静"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY9SDVEPHZGGW9Q7DATAB7Y",
+      "name": "Negative Film Yellow&Cyan 02a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:42:01+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY9SDVEPHZGGW9Q7DATAB7Y&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY9SDVEPHZGGW9Q7DATAB7Y.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow&Cyan 02a：以青蓝、冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古。",
+        "palette": [
+          "青蓝",
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY7BMD06GCPF6K2HT1TM575",
+      "name": "Negative Film Yellow&Green 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:58:51+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY7BMD06GCPF6K2HT1TM575&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY7BMD06GCPF6K2HT1TM575.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Negative Film Yellow&Green 01a：以青蓝、绿色、金黄、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古。",
+        "palette": [
+          "青蓝",
+          "绿色",
+          "金黄",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY5YXAJ77Y65WBW6A2AN7S3",
+      "name": "NegativeFilm Cyan&Blue 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:34:40+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY5YXAJ77Y65WBW6A2AN7S3&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY5YXAJ77Y65WBW6A2AN7S3.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Cyan&Blue 01a：以青蓝、冷蓝、绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY63FFGSA48BD94JND2JCMZ",
+      "name": "NegativeFilm Cyan&Blue 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:37:03+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY63FFGSA48BD94JND2JCMZ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY63FFGSA48BD94JND2JCMZ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Cyan&Blue 01b：以青蓝、冷蓝为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY5S947DNJR6ZTCFPY9Y8SY",
+      "name": "NegativeFilm Green&Cyan 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:31:39+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY5S947DNJR6ZTCFPY9Y8SY&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY5S947DNJR6ZTCFPY9Y8SY.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Green&Cyan 01b：以青蓝、冷蓝、绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "清新"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY67NJG4DHC07BNWZ451DJF",
+      "name": "NegativeFilm Red&Cyan 01a",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:39:20+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY67NJG4DHC07BNWZ451DJF&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY67NJG4DHC07BNWZ451DJF.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Red&Cyan 01a：以青蓝、冷蓝、绿色、红色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、宁静。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色",
+          "红色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "宁静"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY6CBEA2GQMKWN9EW7GHXF8",
+      "name": "NegativeFilm Red&Cyan 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T09:42:19+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY6CBEA2GQMKWN9EW7GHXF8&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY6CBEA2GQMKWN9EW7GHXF8.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Red&Cyan 01b：以青蓝、冷蓝、红色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、宁静。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "红色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "宁静"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY7F7TG407HH3JQSS5RAZDP",
+      "name": "NegativeFilm Yellow&Green 01b",
+      "photographer": "Nikon",
+      "public_date": "2024-10-24T10:01:24+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY7F7TG407HH3JQSS5RAZDP&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY7F7TG407HH3JQSS5RAZDP.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "NegativeFilm Yellow&Green 01b：以绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYAQM210MP27AXYSJKK00R6",
+      "name": "Setouchi Blue by Noci Kosho",
+      "photographer": "Noci Kosho",
+      "public_date": "2024-10-24T13:17:45+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYAQM210MP27AXYSJKK00R6&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYAQM210MP27AXYSJKK00R6.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Setouchi Blue by Noci Kosho：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、宁静。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "宁静"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTNJMC5HW4ZWVDFRWGK2AV",
+      "name": "At Dusk by Noise Woo",
+      "photographer": "Noise Woo",
+      "public_date": "2025-02-19T10:16:38+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTNJMC5HW4ZWVDFRWGK2AV&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTNJMC5HW4ZWVDFRWGK2AV.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "At Dusk by Noise Woo：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、鲜艳。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTJ4VCK77QJAH5C14HVJ9H",
+      "name": "Movie Green Orange by Noise Woo",
+      "photographer": "Noise Woo",
+      "public_date": "2025-02-19T10:16:09+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTJ4VCK77QJAH5C14HVJ9H&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTJ4VCK77QJAH5C14HVJ9H.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Movie Green Orange by Noise Woo：以青蓝、冷蓝、绿色、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感。",
+        "palette": [
+          "青蓝",
+          "冷蓝",
+          "绿色",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "风景",
+          "街头",
+          "夜景"
+        ],
+        "best_for": "优先用于风景、街头、夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSE2HC6Q9XGAC27432XRRAKG",
+      "name": "Vitality Film by Peng Mango",
+      "photographer": "Peng Mango",
+      "public_date": "2025-04-24T09:09:43+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSE2HC6Q9XGAC27432XRRAKG&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSE2HC6Q9XGAC27432XRRAKG.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vitality Film by Peng Mango：以青蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、温暖、鲜艳。",
+        "palette": [
+          "青蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像"
+        ],
+        "best_for": "优先用于人像，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVTDKQG0HAMKWNFT2AGTH7",
+      "name": "Glow Up by Preston Luke",
+      "photographer": "Preston Luke",
+      "public_date": "2025-02-19T10:19:58+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVTDKQG0HAMKWNFT2AGTH7&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVTDKQG0HAMKWNFT2AGTH7.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Glow Up by Preston Luke：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVXNT90NC504911N9A78Z8",
+      "name": "Midnight Blush by Preston Luke",
+      "photographer": "Preston Luke",
+      "public_date": "2025-02-19T10:20:12+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVXNT90NC504911N9A78Z8&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVXNT90NC504911N9A78Z8.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Midnight Blush by Preston Luke：以粉色/洋红为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏忧郁、强烈。",
+        "palette": [
+          "粉色/洋红"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "夜景"
+        ],
+        "best_for": "优先用于夜景，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBVQCQJC6QGJV508T96YWYR",
+      "name": "Vintage Vibes by Preston Luke",
+      "photographer": "Preston Luke",
+      "public_date": "2025-02-19T10:19:42+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBVQCQJC6QGJV508T96YWYR&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBVQCQJC6QGJV508T96YWYR.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Vibes by Preston Luke：以绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏电影感、复古、忧郁。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "复古",
+          "忧郁"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVBBYAZ7829PGCZ9J3T92",
+      "name": "CineBias Achromic by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:13:42+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVBBYAZ7829PGCZ9J3T92&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVBBYAZ7829PGCZ9J3T92.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "强调纹理与光影叙事的黑白电影风：黑色深、灰阶柔、高光明亮，反差强但过渡不生硬。",
+        "palette": [
+          "中性黑白",
+          "深黑",
+          "明亮高光"
+        ],
+        "tone": "高反差黑白；中间灰平滑，兼顾面部和纹理",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "黑白",
+          "真实",
+          "永恒",
+          "情绪"
+        ],
+        "scene_tags": [
+          "人像",
+          "纪实",
+          "街头",
+          "光影"
+        ],
+        "best_for": "形体、表情、纹理和光线比颜色更重要的真实叙事。",
+        "avoid_when": "颜色承担主题信息，或平光素材缺少足够明暗结构时。",
+        "lightroom_semantic_moves": [
+          "先用综合色彩明度关系塑造黑白分离",
+          "建立深黑与亮高光但保留端点",
+          "让肤色对应灰阶自然明亮",
+          "不依赖清晰度或纹理增强制造锐感"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVBGN0D5X8S4VKDFPKSQE",
+      "name": "CineBias BleachBypass by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:13:57+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVBGN0D5X8S4VKDFPKSQE&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVBGN0D5X8S4VKDFPKSQE.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "经典漂白跳过观感：高反差、低饱和、偏冷金属质感，苍白肤色与浓烈阴影带来严肃、粗粝、前卫的戏剧张力。",
+        "palette": [
+          "冷金属灰",
+          "低饱和肤色",
+          "残留冷色"
+        ],
+        "tone": "很高反差；亮部偏硬，阴影浓重，综合色彩收缩",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "漂白跳过",
+          "粗粝",
+          "严肃",
+          "前卫"
+        ],
+        "scene_tags": [
+          "时尚",
+          "动作",
+          "工业",
+          "暗黑叙事"
+        ],
+        "best_for": "硬光、材质明显、主题严肃的时尚或电影画面。",
+        "avoid_when": "柔美人像、婴童、食物，或素材高光/阴影已经严重剪切时。",
+        "lightroom_semantic_moves": [
+          "大幅降低综合色度但保留少量冷色辨识",
+          "以曲线建立强反差并守住端点细节",
+          "肤色变淡而非简单变灰",
+          "利用白平衡与HSL形成冷金属倾向"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVV95S83XYQC61W1Z5XHFB",
+      "name": "CineBias by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:11:37+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVV95S83XYQC61W1Z5XHFB&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVV95S83XYQC61W1Z5XHFB.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "干净、克制的冷调电影基底：蓝绿环境被轻度强化，肤色自然但微冷，深阴影平滑而不硬，适合作为现代叙事的通用起点。",
+        "palette": [
+          "冷青蓝",
+          "克制绿色",
+          "自然微冷肤色"
+        ],
+        "tone": "中等反差；暗部深但过渡顺滑，高光不追求耀眼",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "电影感",
+          "现代",
+          "内敛",
+          "叙事"
+        ],
+        "scene_tags": [
+          "人像",
+          "城市",
+          "室内",
+          "生活方式"
+        ],
+        "best_for": "画面已有蓝绿环境色、希望兼顾肤色与冷调电影感的现代叙事。",
+        "avoid_when": "夕阳暖色是主体，或需要明亮甜美、强烈金黄色氛围时。",
+        "lightroom_semantic_moves": [
+          "白平衡轻微偏冷，先保护肤色",
+          "蓝/青/绿适度聚拢，避免荧光化",
+          "压稳高光并建立深而柔的阴影",
+          "整体饱和度克制，橙色肤色单独保真"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVASPV32SKAKKFQ08MR5Y",
+      "name": "CineBias WC - Grit & Glow by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:12:52+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVASPV32SKAKKFQ08MR5Y&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVASPV32SKAKKFQ08MR5Y.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "粗粝与辉光并存的高反差风格：冷阴影托起鲜亮橙红，高光明亮、暗部有重量，画面充满速度与张力。",
+        "palette": [
+          "冷阴影",
+          "高能橙红",
+          "冷暖肤色"
+        ],
+        "tone": "高反差；深阴影与明亮高光并置，强调视觉张力",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "粗粝",
+          "动感",
+          "强烈"
+        ],
+        "scene_tags": [
+          "动作",
+          "音乐现场",
+          "时尚",
+          "城市夜景"
+        ],
+        "best_for": "本身有红橙光源或暖色主体、需要从冷背景中跳出的动态叙事。",
+        "avoid_when": "光比已经失控、皮肤过红，或需要柔和低调的日常记录时。",
+        "lightroom_semantic_moves": [
+          "先恢复高光和阴影可用细节，再做强反差",
+          "强化橙红与冷阴影的分离",
+          "肤色在冷暖之间保持连续过渡",
+          "限制红色饱和峰值，避免溢色"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVV9RMJBPDCZ1JM8Q57MZP",
+      "name": "CineBias-C - Crisp Teal Contrast by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:12:16+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVV9RMJBPDCZ1JM8Q57MZP&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVV9RMJBPDCZ1JM8Q57MZP.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "清脆青蓝与强结构反差：冷色占主导，阴影深、边界明确，色彩浓郁但不过饱和，强调人物与空间层次。",
+        "palette": [
+          "清脆青蓝",
+          "深冷阴影",
+          "自然冷肤色"
+        ],
+        "tone": "高反差；暗部扎实，高光与阴影细节仍需保留",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "电影感",
+          "锐利",
+          "前卫",
+          "力量"
+        ],
+        "scene_tags": [
+          "环境人像",
+          "城市",
+          "建筑",
+          "硬光"
+        ],
+        "best_for": "有明确光影结构、线条或层次，需要冷峻冲击力的环境人像与城市画面。",
+        "avoid_when": "柔美低反差人像、雾气场景或肤色已经偏青时。",
+        "lightroom_semantic_moves": [
+          "以曲线建立强而可控的明暗结构",
+          "蓝青适度加深并统一",
+          "压住综合色度，保留橙色肤色分离",
+          "高光与黑位避免同时剪切"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVA9H533XHSSBQ1RH6A54",
+      "name": "CineBias-CC - Noir Vibes by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:12:36+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVA9H533XHSSBQ1RH6A54&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVA9H533XHSSBQ1RH6A54.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "青色笼罩的冷峻黑色电影感：蓝绿突出、暖色退场，冷肤色融入环境，深黑阴影制造神秘与反乌托邦气质。",
+        "palette": [
+          "主导青色",
+          "冷蓝绿",
+          "被抑制红橙"
+        ],
+        "tone": "深暗高反差；黑位浓重，中间调压低",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "黑色电影",
+          "神秘",
+          "反乌托邦",
+          "冷峻"
+        ],
+        "scene_tags": [
+          "夜景",
+          "工业空间",
+          "戏剧人像",
+          "概念摄影"
+        ],
+        "best_for": "暗调、工业或夜间叙事，且允许肤色融入整体冷色世界的画面。",
+        "avoid_when": "肤色准确性优先、家庭纪实、婚礼或暖色商品摄影。",
+        "lightroom_semantic_moves": [
+          "显著建立青色环境主导关系",
+          "降低红橙存在感但不可造成病态断层",
+          "压深黑位并保留关键阴影纹理",
+          "控制蓝绿高饱和区域，避免色块化"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVV9F5TRD8DA11S2W9JWPW",
+      "name": "CineBias-T - Cool Atmosphere by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:11:57+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVV9F5TRD8DA11S2W9JWPW&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVV9F5TRD8DA11S2W9JWPW.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "柔和青绿雾感的冷调电影风：蓝色向青移动，绿色更浓，肤色偏冷且低饱和，整体安静、内省。",
+        "palette": [
+          "雾青",
+          "冷绿",
+          "低饱和肤色"
+        ],
+        "tone": "中低反差；阴影柔和，高光收敛，层次偏空气感",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "电影感",
+          "静谧",
+          "忧郁",
+          "内省"
+        ],
+        "scene_tags": [
+          "室内",
+          "窗光人像",
+          "阴天",
+          "安静叙事"
+        ],
+        "best_for": "柔和室内光、阴天或本身偏冷且不靠强烈色彩取胜的画面。",
+        "avoid_when": "需要健康暖肤、阳光灿烂或高反差硬朗质感时。",
+        "lightroom_semantic_moves": [
+          "色温偏冷并轻推青绿关系",
+          "降低橙黄饱和但保留皮肤明度",
+          "压低整体反差，保持阴影分离",
+          "让蓝色向青靠拢但避免污染中性色"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVB156N1AE0ZF7R983D15",
+      "name": "CineBias-TC - Green Edge Experimental by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:13:08+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVB156N1AE0ZF7R983D15&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVB156N1AE0ZF7R983D15.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "实验性的绿色侵入：冷绿覆盖中间调，蓝绿形成超现实冲击，深阴影强化戏剧性，肤色也主动偏冷。",
+        "palette": [
+          "强冷绿",
+          "实验蓝",
+          "冷化肤色"
+        ],
+        "tone": "中高反差；阴影深，中间调色偏强烈",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "实验",
+          "超现实",
+          "前卫",
+          "异质"
+        ],
+        "scene_tags": [
+          "概念人像",
+          "时尚",
+          "舞台",
+          "创意影像"
+        ],
+        "best_for": "允许明显偏色、追求非自然世界观的概念、时尚或音乐视觉。",
+        "avoid_when": "纪实、婚礼、产品颜色准确或自然肤色必须优先时。",
+        "lightroom_semantic_moves": [
+          "将绿偏置集中在阴影与环境色，避免全域平涂",
+          "蓝绿做明确色相分工",
+          "肤色只保留最低限度可读性",
+          "用黑位与中间调反差支撑实验色"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXVVB5MCPQSTAM83NKMDPTG",
+      "name": "CineBiasOffset by RED",
+      "photographer": "RED",
+      "public_date": "2025-12-10T09:13:28+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXVVB5MCPQSTAM83NKMDPTG&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXVVB5MCPQSTAM83NKMDPTG.jpg",
+      "analysis": {
+        "provenance": "manually_curated_workflow_inference_from_official_text_and_display_sample",
+        "summary_zh": "比标准 CineBias 更温和含蓄的冷调电影风：柔蓝绿环境包围略暖、低饱和的自然肤色，阴影轻柔，叙事感不抢内容。",
+        "palette": [
+          "柔蓝绿",
+          "低饱和暖肤",
+          "中性冷灰"
+        ],
+        "tone": "低至中等反差；阴影柔软，层次细腻",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "电影感",
+          "含蓄",
+          "宁静",
+          "自然"
+        ],
+        "scene_tags": [
+          "剧情人像",
+          "生活方式",
+          "旅行",
+          "室内"
+        ],
+        "best_for": "希望获得电影色彩关系，但不想让调色压过人物与故事的画面。",
+        "avoid_when": "需要强烈商业鲜艳度、硬朗黑位或高能量视觉时。",
+        "lightroom_semantic_moves": [
+          "轻微冷却环境，中间调保留一点暖肤",
+          "降低综合色度而保持色相分离",
+          "用柔和曲线而非硬对比塑形",
+          "避免把阴影压成纯黑"
+        ],
+        "confidence": "high_manual_review",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01KBXTAMXKCKAR7RQ7TY8H006B",
+      "name": "Golden Brown by Siinapse",
+      "photographer": "Siinapse",
+      "public_date": "2025-12-10T09:10:20+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01KBXTAMXKCKAR7RQ7TY8H006B&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01KBXTAMXKCKAR7RQ7TY8H006B.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Golden Brown by Siinapse：以金黄、棕褐/大地色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏温暖。",
+        "palette": [
+          "金黄",
+          "棕褐/大地色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "温暖"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDSNV8Z3TXW116M4RJXF6F4",
+      "name": "Japanesque Film by Taishi Arashida",
+      "photographer": "Taishi Arashida",
+      "public_date": "2025-04-24T09:06:23+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDSNV8Z3TXW116M4RJXF6F4&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDSNV8Z3TXW116M4RJXF6F4.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Japanesque Film by Taishi Arashida：以金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、温暖。",
+        "palette": [
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "温暖"
+        ],
+        "scene_tags": [
+          "风景",
+          "街头",
+          "自然"
+        ],
+        "best_for": "优先用于风景、街头、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYB63AT02S12FKN8TAQPE7C",
+      "name": "Clear Portrait by Takahiro Sakai",
+      "photographer": "Takahiro Sakai",
+      "public_date": "2024-10-24T13:18:31+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYB63AT02S12FKN8TAQPE7C&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYB63AT02S12FKN8TAQPE7C.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Clear Portrait by Takahiro Sakai：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、清新、宁静。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "清新",
+          "宁静",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "街头",
+          "静物"
+        ],
+        "best_for": "优先用于人像、街头、静物，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY8AXSAZGV4ZC2DZ8B6KHYR",
+      "name": "Pastel Nostalgia by Takahiro Sakai",
+      "photographer": "Takahiro Sakai",
+      "public_date": "2024-10-24T11:16:22+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY8AXSAZGV4ZC2DZ8B6KHYR&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY8AXSAZGV4ZC2DZ8B6KHYR.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Pastel Nostalgia by Takahiro Sakai：以冷蓝、金黄为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏复古、温暖、鲜艳。",
+        "palette": [
+          "冷蓝",
+          "金黄"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAY7YWY2NBKH4HJ79HD6J1PC",
+      "name": "Vintage Mellow by Takahiro Sakai",
+      "photographer": "Takahiro Sakai",
+      "public_date": "2024-10-24T11:11:33+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAY7YWY2NBKH4HJ79HD6J1PC&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAY7YWY2NBKH4HJ79HD6J1PC.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Vintage Mellow by Takahiro Sakai：以样张偏冷为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、温暖、自然。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "温暖",
+          "自然"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCBM1RY0K6YRDCDG6GY0G",
+      "name": "Kota-Green by TAKASU TILE",
+      "photographer": "TAKASU TILE",
+      "public_date": "2024-11-21T14:27:36+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCBM1RY0K6YRDCDG6GY0G&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCBM1RY0K6YRDCDG6GY0G.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Kota-Green by TAKASU TILE：以绿色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖、鲜艳。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTAMA6QE5ERWS9ES2KJMV6",
+      "name": "Air Green by Takumi Gunji",
+      "photographer": "Takumi Gunji",
+      "public_date": "2025-02-19T10:15:35+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTAMA6QE5ERWS9ES2KJMV6&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTAMA6QE5ERWS9ES2KJMV6.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Air Green by Takumi Gunji：以冷蓝、绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏清新、自然。",
+        "palette": [
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "清新",
+          "自然"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "自然"
+        ],
+        "best_for": "优先用于人像、风景、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCBWNKBXETV0S1MTS1F5D",
+      "name": "Matte Blue Gray by tanco",
+      "photographer": "tanco",
+      "public_date": "2024-11-21T14:28:41+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCBWNKBXETV0S1MTS1F5D&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCBWNKBXETV0S1MTS1F5D.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Matte Blue Gray by tanco：以冷蓝为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和。",
+        "palette": [
+          "冷蓝"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "街头",
+          "夜景",
+          "室内",
+          "建筑"
+        ],
+        "best_for": "优先用于街头、夜景、室内、建筑，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDY5KY7VJ16RRC6WD6X94VM",
+      "name": "Soft Vivid by Vijay Eesam",
+      "photographer": "Vijay Eesam",
+      "public_date": "2025-04-24T09:09:59+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDY5KY7VJ16RRC6WD6X94VM&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDY5KY7VJ16RRC6WD6X94VM.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Soft Vivid by Vijay Eesam：以绿色、柔和中性色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏柔和。",
+        "palette": [
+          "绿色",
+          "柔和中性色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBSEGNH7FWEJPA5FSEZFC82",
+      "name": "British Film Black and White by Vincent Versace",
+      "photographer": "Vincent Versace",
+      "public_date": "2025-02-19T10:14:25+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBSEGNH7FWEJPA5FSEZFC82&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBSEGNH7FWEJPA5FSEZFC82.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "British Film Black and White by Vincent Versace：以黑白灰阶为主要关系，中等反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、黑白。",
+        "palette": [
+          "黑白灰阶"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "黑白"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用各色明度关系建立灰阶分离，保留肤色与主体可读性",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBT1MR663SKT1CRETZN3CGJ",
+      "name": "Euro Film Black and White by Vincent Versace",
+      "photographer": "Vincent Versace",
+      "public_date": "2025-02-19T10:14:42+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBT1MR663SKT1CRETZN3CGJ&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBT1MR663SKT1CRETZN3CGJ.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Euro Film Black and White by Vincent Versace：以黑白灰阶为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、黑白。",
+        "palette": [
+          "黑白灰阶"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "黑白"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用各色明度关系建立灰阶分离，保留肤色与主体可读性",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBT6RRV2XNM0DMAVFY961J5",
+      "name": "USA Film Black and White by Vincent Versace",
+      "photographer": "Vincent Versace",
+      "public_date": "2025-02-19T10:14:59+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBT6RRV2XNM0DMAVFY961J5&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBT6RRV2XNM0DMAVFY961J5.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "USA Film Black and White by Vincent Versace：以黑白灰阶为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、黑白。",
+        "palette": [
+          "黑白灰阶"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "黑白"
+        ],
+        "scene_tags": [
+          "通用/待按样张复核"
+        ],
+        "best_for": "优先用于通用/待按样张复核，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用各色明度关系建立灰阶分离，保留肤色与主体可读性",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTWV2DWHG73EQP1Z30FG4T",
+      "name": "Emotional Black-and-White by Wazika",
+      "photographer": "Wazika",
+      "public_date": "2025-02-19T10:17:12+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTWV2DWHG73EQP1Z30FG4T&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTWV2DWHG73EQP1Z30FG4T.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Emotional Black-and-White by Wazika：以样张中性为主要关系，中等反差；开放阴影，高光适中，综合色彩呈克制/低饱和；整体偏自然。",
+        "palette": [
+          "样张中性"
+        ],
+        "tone": "中等反差；开放阴影，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "自然"
+        ],
+        "scene_tags": [
+          "室内"
+        ],
+        "best_for": "优先用于室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTS3XN4FY64GJE8P8XM02C",
+      "name": "Warm-toned Portrait by Wazika",
+      "photographer": "Wazika",
+      "public_date": "2025-02-19T10:16:55+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTS3XN4FY64GJE8P8XM02C&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTS3XN4FY64GJE8P8XM02C.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Warm-toned Portrait by Wazika：以样张偏暖为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和。",
+        "palette": [
+          "样张偏暖"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和"
+        ],
+        "scene_tags": [
+          "人像",
+          "室内"
+        ],
+        "best_for": "优先用于人像、室内，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K5FVVJ8CEMGA2DT8PWYV83VP",
+      "name": "Green Soul By Wong",
+      "photographer": "Wong",
+      "public_date": "2025-09-25T09:24:21+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K5FVVJ8CEMGA2DT8PWYV83VP&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K5FVVJ8CEMGA2DT8PWYV83VP.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Green Soul By Wong：以绿色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏鲜艳。",
+        "palette": [
+          "绿色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "鲜艳"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYB3A2BA0S53SYKA0QGKQZ1",
+      "name": "Cloudy Forest by Y2",
+      "photographer": "Y2",
+      "public_date": "2024-10-24T13:19:17+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYB3A2BA0S53SYKA0QGKQZ1&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYB3A2BA0S53SYKA0QGKQZ1.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Cloudy Forest by Y2：以冷蓝、绿色为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏电影感。",
+        "palette": [
+          "冷蓝",
+          "绿色"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "电影感"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然",
+          "视频"
+        ],
+        "best_for": "优先用于人像、自然、视频，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JAYAZMJXN3MCG7GV877PYY52",
+      "name": "Warm Portrait by Y2",
+      "photographer": "Y2",
+      "public_date": "2024-10-24T13:19:47+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JAYAZMJXN3MCG7GV877PYY52&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JAYAZMJXN3MCG7GV877PYY52.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Warm Portrait by Y2：以样张偏冷为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏强烈。",
+        "palette": [
+          "样张偏冷"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像",
+          "视频"
+        ],
+        "best_for": "优先用于人像、视频，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JSDSNVEZ5FGHM57X6TYVXS1Q",
+      "name": "Heartwarming by Yohei Sawamura",
+      "photographer": "Yohei Sawamura",
+      "public_date": "2025-04-24T09:06:44+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JSDSNVEZ5FGHM57X6TYVXS1Q&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JSDSNVEZ5FGHM57X6TYVXS1Q.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Heartwarming by Yohei Sawamura：以样张中性为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖、自然。",
+        "palette": [
+          "样张中性"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖",
+          "自然"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "室内",
+          "自然",
+          "静物"
+        ],
+        "best_for": "优先用于人像、风景、室内、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K7DVGPTWB0JXP824AYDCTT05",
+      "name": "Café Cat by yomowasa",
+      "photographer": "yomowasa",
+      "public_date": "2025-10-16T10:00:46+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K7DVGPTWB0JXP824AYDCTT05&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K7DVGPTWB0JXP824AYDCTT05.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Café Cat by yomowasa：以暖橙、金黄、棕褐/大地色、柔和中性色为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、柔和、温暖。",
+        "palette": [
+          "暖橙",
+          "金黄",
+          "棕褐/大地色",
+          "柔和中性色"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "温暖",
+          "宁静"
+        ],
+        "scene_tags": [
+          "室内",
+          "自然"
+        ],
+        "best_for": "优先用于室内、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01K7DVGQ06GPVCN9DM361Q9ZCF",
+      "name": "Catgrain by yomowasa",
+      "photographer": "yomowasa",
+      "public_date": "2025-10-16T10:01:07+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01K7DVGQ06GPVCN9DM361Q9ZCF&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01K7DVGQ06GPVCN9DM361Q9ZCF.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Catgrain by yomowasa：以绿色、暖橙为主要关系，偏高反差；阴影自然，高光适中，综合色彩呈克制/低饱和；整体偏复古、柔和、忧郁。",
+        "palette": [
+          "绿色",
+          "暖橙"
+        ],
+        "tone": "偏高反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "克制/低饱和",
+        "mood_tags": [
+          "复古",
+          "柔和",
+          "忧郁",
+          "强烈"
+        ],
+        "scene_tags": [
+          "自然"
+        ],
+        "best_for": "优先用于自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "以色调曲线建立反差，同时守住高光与黑位细节",
+          "降低综合色度"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JMBTEMB7XCZ58CBRQ7WCEMGA",
+      "name": "Pastelpink Portrait by Yuki Hirotani",
+      "photographer": "Yuki Hirotani",
+      "public_date": "2025-02-19T10:15:53+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JMBTEMB7XCZ58CBRQ7WCEMGA&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JMBTEMB7XCZ58CBRQ7WCEMGA.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Pastelpink Portrait by Yuki Hirotani：以粉色/洋红为主要关系，中等反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏复古、强烈。",
+        "palette": [
+          "粉色/洋红"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "复古",
+          "强烈"
+        ],
+        "scene_tags": [
+          "人像",
+          "自然"
+        ],
+        "best_for": "优先用于人像、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "保护橙红肤色或暖色主体，避免综合色偏色覆盖局部关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JD6GCC5J64C2JZ7SQBKM77ZW",
+      "name": "Turquoise Blue by Yuki Hirotani",
+      "photographer": "Yuki Hirotani",
+      "public_date": "2024-11-21T14:33:50+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JD6GCC5J64C2JZ7SQBKM77ZW&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JD6GCC5J64C2JZ7SQBKM77ZW.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Turquoise Blue by Yuki Hirotani：以青蓝、冷蓝为主要关系，偏低反差；阴影自然，高光适中，综合色彩呈中等饱和；整体偏清新。",
+        "palette": [
+          "青蓝",
+          "冷蓝"
+        ],
+        "tone": "偏低反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "中等饱和",
+        "mood_tags": [
+          "清新"
+        ],
+        "scene_tags": [
+          "人像",
+          "街头",
+          "自然"
+        ],
+        "best_for": "优先用于人像、街头、自然，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "先用白平衡确定冷暖基线，再以HSL整理蓝、青、绿的相对关系",
+          "柔化亮暗端点，保持中间调层次而非简单提灰",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    },
+    {
+      "id": "01JZ9Z8E65TVX23WQ9D2W9TCPN",
+      "name": "Pale Tale by Yuri",
+      "photographer": "Yuri",
+      "public_date": "2025-07-09T09:14:53+08:00",
+      "source_page": "https://imagingcloud.nikon.com.cn/recipe/release/detail/?id=01JZ9Z8E65TVX23WQ9D2W9TCPN&sortType=0&recipe_lang=zh-cn",
+      "sample_path": "../../assets/nikon-cloud/samples/01JZ9Z8E65TVX23WQ9D2W9TCPN.jpg",
+      "analysis": {
+        "provenance": "workflow_inference_from_official_text_and_one_display_sample",
+        "summary_zh": "Pale Tale by Yuri：以柔和中性色为主要关系，中等反差；阴影自然，高光适中，综合色彩呈鲜明/较高饱和；整体偏柔和、温暖。",
+        "palette": [
+          "柔和中性色"
+        ],
+        "tone": "中等反差；阴影自然，高光适中（结合官方文字与单张展示样张判断）",
+        "saturation": "鲜明/较高饱和",
+        "mood_tags": [
+          "柔和",
+          "温暖"
+        ],
+        "scene_tags": [
+          "人像",
+          "风景",
+          "自然",
+          "旅行",
+          "静物"
+        ],
+        "best_for": "优先用于人像、风景、自然、旅行，尤其当原片已经具备与样张相近的光线和主体色关系时。",
+        "avoid_when": "若原片主色、光质或肤色条件与展示样张相反，应降低匹配权重并改选其他配方。",
+        "lightroom_semantic_moves": [
+          "先校正目标照片的基础曝光与中性色，再建立风格关系",
+          "用温和曲线维持中等反差和自然层次",
+          "按主体分区控制饱和度，避免全局过艳",
+          "最后复核肤色连续性与面部明度，不让风格色污染皮肤"
+        ],
+        "confidence": "medium",
+        "caveat": "仅依据创作者公开说明与一张官方展示样张；应用前必须查看样张并结合目标原片重新判断。"
+      }
+    }
+  ]
+}
