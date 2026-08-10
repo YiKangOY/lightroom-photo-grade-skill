@@ -65,4 +65,4 @@ Control metadata, and display samples are not distributed in this repository.
 The workflow interpretations are non-official and must not be presented as
 statements by Nikon or the named creators.
 
-Source catalog: <https://imagingcloud.nikon.com.cn/recipe/release/?bookId=01HXDNNTHY1AZ6RVMMXSXY3BTK>
+Source catalog: <https://imagingcloud.nikon.com.cn/recipe/release/>
