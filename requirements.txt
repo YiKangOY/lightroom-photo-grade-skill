@@ -1,0 +1,2 @@
+# Optional: full Nikon sample analysis only. Core helpers need no packages.
+Pillow>=10.4,<12

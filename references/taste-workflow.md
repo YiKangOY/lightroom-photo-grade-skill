@@ -26,12 +26,12 @@ Do not perform literal pixel, histogram, or parameter transfer. Different captur
 
 ## Lightweight session state
 
-Use only `<workspace>\.photo-grade\current`:
+Use only `<workspace>/.photo-grade/current`:
 
 - `manifest.json`: selection, status, timestamps, applied-photo list, errors;
 - `proposal.json`: baseline values and proposed absolute settings;
 - `style-intent.md`: short explanation of the intended look;
-- `before\` and `after\`: exported previews for visual review.
+- `before/` and `after/`: exported previews for visual review.
 
 Reject duplicate case-insensitive basenames. This keeps preview matching deterministic without a mapping database. The directory represents one task only. Do not overwrite a session whose status indicates that edits may need rollback.
 

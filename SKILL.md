@@ -7,11 +7,15 @@ description: Safely grade the current Adobe Lightroom Classic selection through 
 
 Use Lightroom MCP for catalog reads, exports, and develop-setting writes. Use the taste files as a Chemigram-inspired reasoning layer: they express visual intent in prose but never write Lightroom settings themselves.
 
+## macOS runtime
+
+Use Python 3.9 or newer; PowerShell is not required. Run helper commands from this skill directory, or use absolute script paths when the working directory differs. See the README for installation and optional Nikon sample dependencies. If the personal default taste file does not exist, use `assets/tastes/_default.md` as initial guidance; do not infer new permanent preferences. Lightroom Classic and a working Lightroom MCP connection are required for live grading; the Python helpers do not install or start that connection.
+
 ## Required resources
 
 - Read `references/taste-workflow.md` before planning or applying a grade.
 - Read `references/strict-color.md` before creating a proposal or writing settings.
-- Read `%USERPROFILE%\.photo-grade\tastes\_default.md` for every grading task.
+- Read `~/.photo-grade/tastes/_default.md` for every grading task.
 - When relevant, also read one genre file from the same folder, such as `portrait.md` or `landscape.md`.
 - For a named style, photographer, scene, mood, or request to find a suitable filter, search the local full index with `scripts/find_nikon_recipe.py`. The script falls back to the bundled public index when the full local catalog has not yet been synchronized. Do not load all 142 records into context.
 - Treat the user's instruction in the current conversation as more important than a taste file.
@@ -32,15 +36,15 @@ When the user says `调用skill进行调色`, `用skill调色`, or an equivalent
 
 ### 1. Freeze the task
 
-- Create `<workspace>\.photo-grade\current` by running `scripts/Initialize-PhotoGradeWorkspace.ps1`.
-- Store only the active task there: `manifest.json`, `proposal.json`, `style-intent.md`, `before\`, and `after\`.
+- Create `<workspace>/.photo-grade/current` by running `python3 scripts/initialize_photo_grade_workspace.py --workspace "<workspace>"`. Existing sessions are retained; use `--replace-finished` only when a completed or rolled-back session is no longer needed (it is archived beside `current`).
+- Store only the active task there: `manifest.json`, `proposal.json`, `style-intent.md`, `before/`, and `after/`.
 - Record each selected photo's Lightroom identifier, source path, rating, source type, and original develop values for every setting that might be changed.
 - Preserve this directory until the batch is completed or rolled back. Do not create a persistent photo index or cache.
 
 ### 2. Inspect before deciding
 
 - Read metadata and current develop settings before proposing changes.
-- Export baseline previews as sRGB JPEG, long edge 2048 px, quality 90, into `before\`.
+- Export baseline previews as sRGB JPEG, long edge 2048 px, quality 90, into `before/`.
 - Visually inspect every exported preview.
 - If a reference image is supplied, use it only for tone, color relationships, palette, contrast character, and highlight/shadow behavior. Do not copy geometry, content, subject identity, grain, sharpness, masks, or local retouching.
 - Write a short semantic interpretation to `style-intent.md`; do not reduce a look to literal histogram matching.
@@ -50,7 +54,7 @@ When the user says `调用skill进行调色`, `用skill调色`, or an equivalent
 Use this sub-workflow when the user names a Nikon Imaging Cloud recipe or asks for a suitable look:
 
 1. Describe the source photo's scene, light, exposure placement, dominant colors, skin-color constraints, and desired mood.
-2. Run `python scripts/find_nikon_recipe.py "<style and scene query>" --limit 5`. For an exact recipe or photographer name, include it verbatim in the query.
+2. Run `python3 scripts/find_nikon_recipe.py "<style and scene query>" --limit 5`. For an exact recipe or photographer name, include it verbatim in the query.
 3. When local official samples are available, open and visually inspect the best three candidates. Read only those candidates from the selected index; consult raw JSON only when exact official metadata is needed. If samples are absent, use the public interpretations for discovery but synchronize the local catalog before claiming visual reference matching.
 4. Choose by compatibility with the source photo, not by search score alone. Record the chosen recipe ID, photographer, source page, and why it fits in `style-intent.md`.
 5. Treat `official_description` and `picture_control_reference` as source data. Treat every field under `analysis` as a non-official workflow inference. Sample statistics describe one display image, not the recipe in every scene.
@@ -65,14 +69,14 @@ The local catalog is reference material, not a persistent index of the user's ph
 - Use Lightroom's exact flattened HSL keys (`HueAdjustmentRed`, `SaturationAdjustmentRed`, `LuminanceAdjustmentRed`, and their Orange/Yellow/Green/Aqua/Blue/Purple/Magenta equivalents), not a nested `HSL` object, when constructing an MCP write.
 - Preserve every develop setting that is outside the strict color allowlist.
 - Include the baseline value for every proposed key so rollback is deterministic.
-- Save the proposal to `proposal.json` and run `scripts/Test-PhotoGradeProposal.ps1`.
+- Save the proposal to `proposal.json` and run `python3 scripts/validate_photo_grade_proposal.py --path "<workspace>/.photo-grade/current/proposal.json"`.
 - Do not call a Lightroom write tool unless validation succeeds.
 
 ### 4. Apply one pilot
 
 - Choose a representative image, not automatically the first image.
 - Show the proposed intent and key value changes, then obtain explicit user approval before the first write.
-- Apply settings to only that photo, export it into `after\`, and visually compare it with its baseline and any reference.
+- Apply settings to only that photo, export it into `after/`, and visually compare it with its baseline and any reference.
 - If it is technically or aesthetically unsuitable, revise the proposal and validate again.
 
 ### 5. Apply the batch
@@ -86,7 +90,7 @@ The local catalog is reference material, not a persistent index of the user's ph
 
 - On completion, set the manifest status to `completed` and retain the session until the user no longer needs rollback.
 - On rollback, restore the recorded baseline values for every touched key and only those keys. Verify with a fresh read, then set status to `rolled_back`.
-- After final feedback, propose at most two concise taste additions. Append them with `scripts/Add-PhotoGradeTaste.ps1` only after explicit confirmation. Never infer permanent preferences from silence or from a single automatic result.
+- After final feedback, propose at most two concise taste additions. Append them with `python3 scripts/add_photo_grade_taste.py --taste-file "<genre>.md" --entry "<confirmed preference>"` only after explicit confirmation. Never infer permanent preferences from silence or from a single automatic result.
 
 ## Non-negotiable safety
 
