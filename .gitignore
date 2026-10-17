@@ -13,3 +13,6 @@ assets/nikon-cloud/samples/*.jpg
 
 # Lightroom task state belongs outside the skill repository.
 .photo-grade/
+
+# Local Python environments.
+.venv/
